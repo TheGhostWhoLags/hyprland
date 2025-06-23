@@ -1,0 +1,6 @@
+show-failed-attempts
+ignore-empty-password
+image=~/.config/hypr/hex-greyscale.jpg
+scaling=fill
+daemonize
+
